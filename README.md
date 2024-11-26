@@ -1,7 +1,7 @@
 # Shadows Over Suburbia MVP PRD3 
  Shadows Over Suburbia MVP PRD3 
  **Play:**
- **Full Project:**https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototype-
+ **Full Project:** https://github.com/mstrykul1336/Shadows-Over-Suburbia-Prototype-
  **11/25/24** 
 **What was done**
 - As a player, I want to see the current mouse sensitivity value so I can adjust it more accurately. (added a current text next to mouse sensitivity so the player knows what the mouse sensitivity is currently at)
